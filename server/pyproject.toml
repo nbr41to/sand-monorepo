@@ -6,6 +6,8 @@ authors = ["Knob <59198478+nbr41to@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = "^0.79.0"
+uvicorn = "^0.18.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
